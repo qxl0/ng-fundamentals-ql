@@ -1,4 +1,5 @@
-# NgFundamentals
+# NgFundamentals-ql
+This probject was created by Qiang Li
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.1.
 
